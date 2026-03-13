@@ -22,14 +22,14 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
-define( 'WPCACHEHOME', '/home/pivotlar/websites/divingpivotlar.xyz/wp-content/plugins/wp-super-cache/' );
-define( 'DB_NAME', 'db_divingpivotlar_azel' );
+define( 'WPCACHEHOME', '/home/pivotlar/websites/starter-kit.pivotlar.app/wp-content/plugins/wp-super-cache/' );
+define( 'DB_NAME', 'db_pivotlar_b19n' );
 
 /** Database username */
-define( 'DB_USER', 'plr_divingpivotlar_azel' );
+define( 'DB_USER', 'plr_pivotlar_b19n' );
 
 /** Database password */
-define( 'DB_PASSWORD', '7sYoa8n6y1aNFsh6' );
+define( 'DB_PASSWORD', 'hnKK6mp3+dBLWQcE' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
